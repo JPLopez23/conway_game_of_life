@@ -1,0 +1,29 @@
+# Archivos generados por cargo
+/target/
+**/*.rs.bk
+
+# Archivos de backup de editores
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de macOS y Linux
+.DS_Store
+*.log
+
+# Archivos temporales de pruebas
+*.out
+*.trace
+
+# Archivos de ScreenToGif
+*.stg
+*.gifski
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
